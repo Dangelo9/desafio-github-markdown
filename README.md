@@ -15,3 +15,4 @@ Este é um projeto de exemplo para praticar colaboração no GitHub.
 
 - Abra uma issue para discutir mudanças.
 - Siga as boas práticas de código.
+- Solicite a permissão
